@@ -2,7 +2,7 @@
 
 For people who want to become healthier, Health Helper is a fitness application that will allow you to track your daily caloric intake and have a wide variety of exercises in one place. 
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+In the application, you will be able to input the calories of the food you buy at the beginning of the week, then it will average out how many calories you intake per day.
 
 ## Links
 
