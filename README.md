@@ -8,4 +8,4 @@ For people who want to become healthier, Health Helper is a fitness application 
 
 [Live App](https://repl.it)
 
-[Project Board](../../projects/1)
+[Project Board](https://github.com/woodr2000/HealthHelper/projects/1)
