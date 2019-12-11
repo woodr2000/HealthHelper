@@ -1,4 +1,4 @@
-# Health Helper
+# Health Assistant
 
 For everyday people who have the drive to become healthier, but lack the information to do so,  Health Assistant is an online application that will give you the necessary information that you need in order to get started on your journey to becoming a happier and healthier person. 
 
