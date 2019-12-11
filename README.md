@@ -1,11 +1,11 @@
 # Health Helper
 
-For people who want to become healthier, Health Helper is a fitness application that will allow you to track your daily caloric intake and have a wide variety of exercises in one place. 
+For everyday people who have the drive to become healthier, but lack the information to do so,  Health Assistant is an online application that will give you the necessary information that you need in order to get started on your journey to becoming a happier and healthier person. 
 
-In the application, you will be able to input the calories of the food you buy at the beginning of the week, then it will average out how many calories you intake per day.
+In the application, you will be able to view a wide variety of exercises that you can select to learn more about. Also, you will be able to use the calorie helper to figure out how many calories you should be eating a day.
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@WoodR2000/I101-Final-Project)
 
 [Project Board](https://github.com/woodr2000/HealthHelper/projects/1)
